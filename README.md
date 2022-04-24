@@ -1,6 +1,6 @@
 # Hospital-Beds-in-Europe-from-2011-to-2019
 
-There are fewer and fewer hospital beds available in Europe.
+# There are fewer and fewer hospital beds available in Europe.
 
 The number of hospital beds in Europe is gradually decreasing. This trend continues in 2019, according to the latest Eurostat update.
 In 2011, an average of 486.27 beds per 100,000 inhabitants were available in hospitals in Europe. A figure that in 10 years has progressively decreased to 450.67 (with a difference of more than 35 beds per 100 thousand inhabitants). 
